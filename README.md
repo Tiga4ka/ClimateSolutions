@@ -122,8 +122,10 @@
 </details>
 
 
-Проблемы в здравоохранении, связанные с изменением климата
+Самыми частыми проблемами здравоохранения всвязи с изменением климата являются заболевания, связанне с высокой температурой воздуха, загрязнением воздуха, инфекции, передающиеся через укусы насекомых.
 
+[![HealthcareProb](https://user-images.githubusercontent.com/79177126/212705471-1bab7476-bf30-4767-afdb-e2e548a95aba.png)](https://public.tableau.com/app/profile/elena.korolkova/viz/ClimateSolutions_HealthcareProblems/HealthcareProb?publish=yes)
+        
 
 
 АДАПТАЦИЯ

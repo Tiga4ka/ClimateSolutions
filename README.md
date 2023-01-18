@@ -12,66 +12,58 @@
 Таким образом у нас будет представление о том какие меры можем принимать мы, для решения климатических проблем в нашем городе.
 
 
-## ПРОБЛЕМЫ, ВЫЗВАННЫЕ ИЗМЕНЕНИЕМ КЛИМАТА
+## Проблемы, вызванные изменением климата
 
-Наиболее распространенными природными катаклизмами власти городов назвали: 
+Наиболее распространенными природными катаклизмами власти городов назвали: **ураганы, ливни, засуху, сильную жару и наводнения.**
 
-1. Ураганы и ливни
-2. Засуха
-3. Периоды сильной жары
-4. Наводнения
-
-| Hazard                         | NbOrganizations | Percent |
-| ------------------------------ | ----------------------- | ------- |
-| Rain storm                     | 287                     | 10.62 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-| Drought                        | 262                     | 9.69    |
-| Heat wave                      | 247                     | 9.14    |
-| Flash / surface flood          | 221                     | 8.18    |
-| Extreme hot days               | 178                     | 6.59    |
-| River flood                    | 142                     | 5.25    |
-| Severe wind &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 127 | 4.70 |
+<img width="819" alt="2023-01-18_152615_cr" src="https://user-images.githubusercontent.com/79177126/213183254-02803552-82a1-486c-a54d-d5a781b56506.png">
 
 <details>
-  <summary>Продолжение таблицы</summary>  
-  
-|                                |                         |         |
-| ------------------------------ | ----------------------- | ------- |
-| Coastal flood                  | 125                     | 4.62    |
-| Forest fire                    | 118                     | 4.37    |
-| Landslide                      | 106                     | 3.92    |
-| Vector-borne disease           | 99                      | 3.66    | 
-| Storm surge                    | 68                      | 2.52    |
-| Heavy snow                     | 57                      | 2.11    |
-| Insect infestation             | 49                      | 1.81    |
-| Extreme winter conditions      | 47                      | 1.74    |
-| Lightning / thunderstorm       | 47                      | 1.74    |
-| Cyclone (Hurricane / Typhoon)  | 46                      | 1.70    |
-| Atmospheric CO2 concentrations | 45                      | 1.66    |
-| Land fire                      | 45                      | 1.66    |
-| Hail                           | 39                      | 1.44    |
-| Extreme cold days              | 36                      | 1.33    |
-| Cold wave                      | 34                      | 1.26    |
-| Salt water intrusion           | 33                      | 1.22    |
-| Water-borne disease            | 32                      | 1.18    |
-| Tornado                        | 31                      | 1.15    |
-| Groundwater flood              | 30                      | 1.11    |
-| Air-borne disease              | 29                      | 1.07    |
-| Permanent inundation           | 27                      | 1.00    |
-| Tropical storm                 | 26                      | 0.96    |
-| Subsidence                     | 15                      | 0.55    |
-| Fog                            | 14                      | 0.52    |
-| Extra tropical storm           | 10                      | 0.37    |
-| Ocean acidification            | 9                       | 0.33    |
-| Rock fall                      | 9                       | 0.33    |
-| Avalanche                      | 7                       | 0.26 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| Monsoon                        | 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0.22|   
+  <summary>Полная таблица</summary>  
+ | Hazard                         | NbOrganizations | Percentage |
+| ------------------------------ | --------------- | ---------- |
+| Rain storm                     | 287             | 10.62      |
+| Drought                        | 262             | 9.69       |
+| Heat wave                      | 247             | 9.14       |
+| Flash / surface flood          | 221             | 8.18       |
+| Extreme hot days               | 178             | 6.59       |
+| River flood                    | 142             | 5.25       |
+| Severe wind                    | 127             | 4.70       |
+| Coastal flood                  | 125             | 4.62       |
+| Forest fire                    | 118             | 4.37       |
+| Landslide                      | 106             | 3.92       |
+| Vector-borne disease           | 99              | 3.66       |
+| Storm surge                    | 68              | 2.52       |
+| Heavy snow                     | 57              | 2.11       |
+| Insect infestation             | 49              | 1.81       |
+| Extreme winter conditions      | 47              | 1.74       |
+| Lightning / thunderstorm       | 47              | 1.74       |
+| Cyclone (Hurricane / Typhoon)  | 46              | 1.70       |
+| Atmospheric CO2 concentrations | 45              | 1.66       |
+| Land fire                      | 45              | 1.66       |
+| Hail                           | 39              | 1.44       |
+| Extreme cold days              | 36              | 1.33       |
+| Cold wave                      | 34              | 1.26       |
+| Salt water intrusion           | 33              | 1.22       |
+| Water-borne disease            | 32              | 1.18       |
+| Tornado                        | 31              | 1.15       |
+| Groundwater flood              | 30              | 1.11       |
+| Air-borne disease              | 29              | 1.07       |
+| Permanent inundation           | 27              | 1.00       |
+| Tropical storm                 | 26              | 0.96       |
+| Subsidence                     | 15              | 0.55       |
+| Fog                            | 14              | 0.52       |
+| Extra tropical storm           | 10              | 0.37       |
+| Ocean acidification            | 9               | 0.33       |
+| Rock fall                      | 9               | 0.33       |
+| Avalanche                      | 7               | 0.26       |
+| Monsoon                        | 6               | 0.22       |  
 </details>
 
 
-Следующие сферы городской жизни наиболее подвержены климатическим рискам: здравоохранение, водоснабжение и водоотведение, жители, окружающая среда, биоразнообразие
+Следующие сферы городской жизни наиболее подвержены климатическим рискам: **здравоохранение, водоснабжение и водоотведение, жители, окружающая среда, биоразнообразие.**
 
-Отражаются ли риски на здравоохранении? 
-66% организаций ответили "Да"
+Для 66% организаций ответили "Да"
 
 | Answer      | NbOrganizations | Percent     |
 | ----------- | --------------- | ----------- |

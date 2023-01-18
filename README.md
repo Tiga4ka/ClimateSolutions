@@ -125,11 +125,13 @@
 | Other, please specify: persons susceptible to flood risk e.g. living at low-lying areas             | 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0.02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
   
 </details>
+</br>
+
+Самыми частыми проблемами здравоохранения всвязи с изменением климата являются **заболевания, связанные с жарой, загрязнением воздуха и инфекции, распространяемые насекомыми.**
+
+[<img src="https://user-images.githubusercontent.com/79177126/213185537-06fda57e-21d5-46a2-b343-0e9cba52c7a6.png" width="800">](https://public.tableau.com/app/profile/elena.korolkova/viz/ClimateSolutions_HealthcareProblems/HealthcareProb?publish=yes)
 
 
-Самыми частыми проблемами здравоохранения всвязи с изменением климата являются заболевания, связанне с высокой температурой воздуха, загрязнением воздуха, инфекции, передающиеся через укусы насекомых.
-
-[![HealthcareProb](https://user-images.githubusercontent.com/79177126/212705471-1bab7476-bf30-4767-afdb-e2e548a95aba.png)](https://public.tableau.com/app/profile/elena.korolkova/viz/ClimateSolutions_HealthcareProblems/HealthcareProb?publish=yes)
         
 
 

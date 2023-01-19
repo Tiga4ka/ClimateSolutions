@@ -17,7 +17,7 @@
 
 Наиболее распространенными природными катаклизмами власти городов назвали: **ураганы, ливни, засуху, сильную жару и наводнения.**
 
-<img width="819" alt="2023-01-18_152615_cr" src="https://user-images.githubusercontent.com/79177126/213183254-02803552-82a1-486c-a54d-d5a781b56506.png">
+[<img width="819" alt="2023-01-18_152615_cr" src="https://user-images.githubusercontent.com/79177126/213183254-02803552-82a1-486c-a54d-d5a781b56506.png">](https://public.tableau.com/views/ClimateSolutions_Hazards/Hazards2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <details>
   <summary>Таблица</summary>  
@@ -179,19 +179,17 @@
   
 </details>
 
-Распределение использования энергии от различных источников
+Распределение использования энергии от различных источников в городах.
 
 
 [<img width="752" alt="2023-01-19_155036" src="https://user-images.githubusercontent.com/79177126/213447410-c75eed54-9f78-4214-b19e-84b4b2e4ec85.png">](https://public.tableau.com/views/ClimateSolutions_Energy/Energy?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-
--- Есть ли в городе готовый отчет по выбросам вредных веществ в атмосферу
--- Сводка выбросов CO2 по секторам (метрические тонны)
-
-
-
 Какие конкретно действия предпринимают для адаптации к изменениям
+
+
+[<img width="806" alt="2023-01-19_161242" src="https://user-images.githubusercontent.com/79177126/213451752-804f8703-b4c4-4622-9b44-7e16a43c1a1e.png">](https://public.tableau.com/views/ClimateSolutions_Actions/Actions?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 Как внедряют меры
 

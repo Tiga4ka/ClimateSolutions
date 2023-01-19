@@ -148,27 +148,43 @@
 
 <img width="541" alt="2023-01-19_151327" src="https://user-images.githubusercontent.com/79177126/213440329-75d8f148-3ede-4855-86ec-4d8f325d5737.png">
 
-В цели по адаптации к изменениям климата входят **сокращение выбросов, цели, связанные с адаптацией, использование возобновляемых источников энергии, повышение энергоэффективности, переработка и утилизация отходов.**
+В цели по адаптации к изменениям климата входят **сокращение выбросов, приспособление, использование возобновляемых источников энергии, повышение энергоэффективности, переработка и утилизация отходов, повышение водной безопасности** (способность населения иметь устойчивый доступ к адекватному количеству воды).
 
-<img width="535" alt="2023-01-19_151753" src="https://user-images.githubusercontent.com/79177126/213441347-d3a2ea47-1ace-4b85-bd68-1eee006039bf.png">
+[<img width="534" alt="2023-01-19_153336" src="https://user-images.githubusercontent.com/79177126/213444050-b4092f85-3d38-4919-a756-4fa4f0696830.png">](https://public.tableau.com/views/ClimateSolutions_AdaptTargets/AdaptTargets?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 
 <details>
   <summary>Таблица</summary>  
   
-| Targets                     | NbOrganizations | Percent |
-| --------------------------- | --------------- | ------- |
-| Emissions reduction targets | 411             | 21.23   |
-| Adaptation targets          | 317             | 16.37   |
-| Renewable energy targets    | 214             | 11.05   |
-| Energy efficiency targets   | 197             | 10.18   |
-| Waste management targets    | 192             | 9.92    |
-| Question not applicable     | 166             | 8.57    |
-| Water security targets      | 136             | 7.02    |
+| Targets                                                           | NbOrganizations | Percentage |
+| ----------------------------------------------------------------- | --------------- | ---------- |
+| Emissions reduction targets                                       | 411             | 21.23      |
+| Adaptation targets                                                | 317             | 16.37      |
+| Renewable energy targets                                          | 214             | 11.05      |
+| Energy efficiency targets                                         | 197             | 10.18      |
+| Waste management targets                                          | 192             | 9.92       |
+| Question not applicable                                           | 166             | 8.57       |
+| Water security targets                                            | 136             | 7.02       |
+| Other, please specify                                             | 10              | 0.52       |
+| Other, please specify: Transportation Targets                     | 6               | 0.31       |
+| Other, please specify: Health                                     | 2               | 0.10       |
+| Other, please specify: Accessibility                              | 1               | 0.05       |
+| Other, please specify: Active and Public Transportation           | 1               | 0.05       |
+| Other, please specify: Affordable Housing                         | 1               | 0.05       |
+| Other, please specify: Air Quality Targets                        | 1               | 0.05       |
+| Other, please specify: Citizens involvement                       | 1               | 0.05       |
+| Other, please specify: City Resilience Strategy                   | 1               | 0.05       |
+| Other, please specify: Community Health & Quality of Life Targets | 1               | 0.05       |
+| Other, please specify: Consumption and Food targets               | 1               | 0.05       |
   
 </details>
 
--- ФАКТОРЫ, ВЛИЯЮЩИЕ НА ИЗМЕНЕНИЯ КЛИМАТА
--- Распределение использования энергии от различных источников
+Распределение использования энергии от различных источников
+
+
+[<img width="752" alt="2023-01-19_155036" src="https://user-images.githubusercontent.com/79177126/213447410-c75eed54-9f78-4214-b19e-84b4b2e4ec85.png">](https://public.tableau.com/views/ClimateSolutions_Energy/Energy?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
 
 -- Есть ли в городе готовый отчет по выбросам вредных веществ в атмосферу
 -- Сводка выбросов CO2 по секторам (метрические тонны)

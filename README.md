@@ -23,7 +23,7 @@
   <summary>Таблица</summary>  
   
 | Hazard                         | NbOrganizations | Percentage |
-| ------------------------------ | --------------- | ---------- |
+| ------------------------------ | ---------------:| ----------:|
 | Rain storm                     | 287             | 10.62      |
 | Drought                        | 262             | 9.69       |
 | Heat wave                      | 247             | 9.14       |
@@ -71,8 +71,8 @@
 
 **Сталкивается ли ваш город с рисками для общественного здравоохранения, связанными с изменением климата?**
 
-| Answer      | NbOrganizations | Percent     |
-| ----------- | --------------- | ----------- |
+| Answer      | NbOrganizations | Percent    |
+| ----------- | ---------------:| ----------:|
 | Yes         | 288             | 65.6       |
 | No          | 77              | 17.6       |
 | Do not know | 73              | 16.7       |
@@ -82,8 +82,8 @@
 Наиболее подвержены негативному влиянию уже уязвимые группы населения: **пожилые люди, люди с низким доходом и живущие в ветхом, опасном жилье, дети, люди с хроническими заболеваниями и инвалидностью.**
 
 | PeopleGroup                                                                                         | NbOrganizations | Percent |
-| --------------------------------------------------------------------------------------------------- | --------------- | ------- |
-| Elderly                                                                                             | 1320            | 15.61&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| --------------------------------------------------------------------------------------------------- | ---------------:| -------:|
+| Elderly                                                                                             | 1320|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.61 |
 | Low-income households                                                                               | 1296            | 15.32   |
 | Persons living in sub-standard housing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 1191            | 14.08   |
 | Children & youth                                                                                    | 920             | 10.88   |
@@ -98,7 +98,7 @@
   <summary>Продолжение таблицы</summary>  
   
 |                                                                                                     |                 |         |
-| --------------------------------------------------------------------------------------------------- | --------------- | ------- |
+| --------------------------------------------------------------------------------------------------- | ---------------:| -------:|
 | Other, please specify                                                                               | 38              | 0.45    |
 | Other, please specify: People without English as a first language                                   | 13              | 0.15    |
 | Other, please specify: Additional stakeholder engagement on this topic required.                    | 11              | 0.13    |
@@ -125,7 +125,7 @@
 | Other, please specify: Productores Agropecuarios                                                    | 2               | 0.02    |
 | Other, please specify: Those who work outside/are active outdoors, homeless populations             | 2               | 0.02    |
 | Other, please specify: all groups                                                                   | 2               | 0.02    |
-| Other, please specify: persons susceptible to flood risk e.g. living at low-lying areas             | 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0.02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| Other, please specify: persons susceptible to flood risk e.g. living at low-lying areas             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.02 |
   
 </details>
 </br>
@@ -198,7 +198,7 @@
   <summary>Таблица</summary>
   
 | Adaptation                                                     | NbOrganizations | Percentage |
-| -------------------------------------------------------------- | --------------- | ---------- |
+| -------------------------------------------------------------- | ---------------:| ----------:|
 | Flood mapping                                                  | 226             | 8.35       |
 | Tree planting and/or creation of green space                   | 208             | 7.69       |
 | Community engagement/education                                 | 196             | 7.25       |
@@ -250,8 +250,8 @@
 Для борьбы с изменением климата города сотрудничают со сферами энергетики, транспорта, управления отходами, строительства и инфраструктуры, водоснабжения, 
 организуют совместные инициативы, реализуют различные проекты устойчивого развития, осуществляют обмен знаниями и данными.
 
-| Collaboration area<br>                         | NbOrganizations | Percent |
-| ---------------------------------------------- | --------------- | ------- |
+| Collaboration area                             | NbOrganizations | Percent |
+|:---------------------------------------------- | ---------------:| -------:|
 | Energy                                         | 271             | 25.470  |
 | Transport (Mobility)                           | 172             | 16.165  |
 | Waste                                          | 139             | 13.064  |

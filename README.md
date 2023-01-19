@@ -141,14 +141,12 @@
 
 
 ### Меры адаптации
-![image](https://user-images.githubusercontent.com/79177126/213187654-0b8ec4a8-93a0-4986-b6bb-777195880fdd.png)
-
 
 74% городов включают цели устойчивого развития (например, сокращение выбросов парниковых газов) в генеральное планирование города.
 
 [<img width="541" alt="2023-01-19_151327" src="https://user-images.githubusercontent.com/79177126/213440329-75d8f148-3ede-4855-86ec-4d8f325d5737.png">](https://public.tableau.com/views/ClimateSolutions_Incorp/Incorp?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-В цели по адаптации к изменениям климата входят **сокращение выбросов, приспособление, использование возобновляемых источников энергии, повышение энергоэффективности, переработка и утилизация отходов, повышение водной безопасности** (способность населения иметь устойчивый доступ к адекватному количеству воды).
+В цели по адаптации входят **сокращение выбросов, приспособление к изменениям, использование возобновляемых источников энергии, повышение энергоэффективности, переработка и утилизация отходов, повышение водной безопасности** (способность населения иметь устойчивый доступ к адекватному количеству воды).
 
 [<img width="534" alt="2023-01-19_153336" src="https://user-images.githubusercontent.com/79177126/213444050-b4092f85-3d38-4919-a756-4fa4f0696830.png">](https://public.tableau.com/views/ClimateSolutions_AdaptTargets/AdaptTargets?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -179,17 +177,73 @@
   
 </details>
 
-Распределение использования энергии от различных источников в городах.
+Распределение использования энергии от различных источников в городах. Возобновляемые и невозобновляемые источники.
 
 
 [<img width="752" alt="2023-01-19_155036" src="https://user-images.githubusercontent.com/79177126/213447410-c75eed54-9f78-4214-b19e-84b4b2e4ec85.png">](https://public.tableau.com/views/ClimateSolutions_Energy/Energy?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+Не смотря на то что гидроэлектроэнергетика занимает первое место в графике,  уголь, нефть и газ в сумме составляют 44%, в то время как возобновляемые источники энергии в сумме - 41%, а ядерная энергетика - 11%.
 
-Какие конкретно действия предпринимают для адаптации к изменениям
-
+Для адаптации к изменениям принимаются такие меры, как: картирование паводков, высадка деревьев, работа с общественностью, включение изменения климата в документы долгосрочного планирования, кризисное управление, включая системы оповещения и эвакуации
+- Проектирование и строительство устойчивой к опасностям инфраструктуры
+- Проекты и политика, ориентированные на наиболее уязвимые группы населения
+- Защита от наводнений
+- Системы сбора ливневых вод
+- Общественная готовность (включая практические занятия/учения)
 
 [<img width="806" alt="2023-01-19_161242" src="https://user-images.githubusercontent.com/79177126/213451752-804f8703-b4c4-4622-9b44-7e16a43c1a1e.png">](https://public.tableau.com/views/ClimateSolutions_Actions/Actions?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+<details>
+  <summary>Таблица</summary>
+  
+| Adaptation                                                     | NbOrganizations | Percentage |
+| -------------------------------------------------------------- | --------------- | ---------- |
+| Flood mapping                                                  | 226             | 8.35       |
+| Tree planting and/or creation of green space                   | 208             | 7.69       |
+| Community engagement/education                                 | 196             | 7.25       |
+| Incorporating climate change into long-term planning documents | 164             | 6.06       |
+| Crisis management including warning and evacuation systems     | 137             | 5.06       |
+| Hazard resistant infrastructure design and construction        | 127             | 4.70       |
+| Projects and policies targeted at those most vulnerable        | 112             | 4.14       |
+| Flood defences – development and operation & storage           | 108             | 3.99       |
+| Storm water capture systems                                    | 95              | 3.51       |
+| Public preparedness (including practice exercises/drills)      | 79              | 2.92       |
+| No action currently taken                                      | 76              | 2.81       |
+| Real time risk monitoring                                      | 75              | 2.77       |
+| Heat mapping and thermal imaging                               | 68              | 2.51       |
+| Resilience and resistance measures for buildings               | 66              | 2.44       |
+| Biodiversity monitoring                                        | 56              | 2.07       |
+| Sea level rise modelling                                       | 54              | 2.00       |
+| Disease prevention measures                                    | 51              | 1.89       |
+| Restrict development in at risk areas                          | 40              | 1.48       |
+| Air quality initiatives                                        | 39              | 1.44       |
+| Promoting and incentivizing water efficiency                   | 37              | 1.37       |
+| Landslide risk mapping                                         | 36              | 1.33       |
+| Nature based solutions for water                               | 34              | 1.26       |
+| Diversifying power/energy supply                               | 33              | 1.22       |
+| Cooling centers, pools, water parks/plazas                     | 29              | 1.07       |
+| Awareness campaign/education to reduce water use               | 27              | 1.00       |
+| Water use restrictions and standards                           | 24              | 0.89       |
+| Additional reservoirs and wells for water storage              | 23              | 0.85       |
+| Soil retention strategies                                      | 21              | 0.78       |
+| Green roofs/walls                                              | 20              | 0.74       |
+| Retrofit of existing buildings                                 | 20              | 0.74       |
+| Water butts/rainwater capture                                  | 19              | 0.70       |
+| Diversification of water supply                                | 18              | 0.67       |
+| Improve water supply distribution method                       | 17              | 0.63       |
+| Other, please specify                                          | 16              | 0.59       |
+| Shading in public spaces, markets                              | 15              | 0.55       |
+| Maintenance/repair – leaking infrastructure                    | 14              | 0.52       |
+| Testing/vaccination programmes for vector-borne disease        | 13              | 0.48       |
+| Xeriscapes – low water landscaping design                      | 12              | 0.44       |
+| Cool pavement                                                  | 10              | 0.37       |
+| Economic diversification measures                              | 9               | 0.33       |
+| Water efficient equipment and appliances                       | 8               | 0.30       |
+| Water smart metering                                           | 7               | 0.26       |
+| Water extraction protection                                    | 6               | 0.22       |
+| Water use audits                                               | 6               | 0.22       |
+| Cooling systems for critical infrastructure                    | 5               | 0.18       |
+</details>
 
 Как внедряют меры
 
